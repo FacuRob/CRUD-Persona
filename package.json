@@ -1,0 +1,19 @@
+{
+  "name": "pagina-curso-back",
+  "version": "1.0.0",
+  "description": "Trabajo de Codo a Codo por parte del Backend",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.1",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3"
+  }
+}
