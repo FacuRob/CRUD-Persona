@@ -1,4 +1,6 @@
-CREATE DATABASE //Nombre de base de datos
+CREATE DATABASE codoacodo
+
+USE codoacodo
 
 CREATE TABLE personas (
 id int not null auto_increment,
