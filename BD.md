@@ -1,5 +1,9 @@
 CREATE DATABASE codoacodo
 
+<<<<<<< HEAD
+=======
+USE codoacodo
+>>>>>>> 1196d5806088dde3ace1e5508d31b5d03d7f4b9e
 
 CREATE TABLE personas (
 id int not null auto_increment,
