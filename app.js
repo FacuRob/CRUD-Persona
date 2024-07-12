@@ -9,7 +9,7 @@ app.use(cors())
 app.use(express.json())
 
 app.get("/",(req, res) => {
-    res.send("Estas en la Pagina Principal")
+    res.send("Estás en la Página Principal")
 })
 
 app.use("/persona", personaRouter)
