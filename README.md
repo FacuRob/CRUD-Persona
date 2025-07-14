@@ -29,3 +29,10 @@ Backend completo para gestión de personas con operaciones CRUD implementado en 
 - Crea una base de datos MySQL
 
 4. **Ejecuta la Aplicacion**
+
+## 📫 Contacto
+
+Si deseas intercambiar ideas sobre ciberseguridad o colaborar:
+- GitHub: [FacuRob](https://github.com/FacuRob)
+- LinkedIn: [Facundo Robles](https://www.linkedin.com/in/frobles-dev/)
+- TryHackMe: [Facundo Robles](https://tryhackme.com/p/roblesfacundo7)
