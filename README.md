@@ -1,12 +1,31 @@
-# CRUD Personas Funcional - Backend
+# CRUD Personas - Backend Node.js con Sequelize y MySQL
 
-Bienvenidos a nuestro proyecto realizando un CRUD funcional de Personas, en cual al registrar una Funcion GET, POST, PUT, DELETE interactura con la Base de Datos, en este caso se uso MySQL Workbench.
+![Node.js](https://img.shields.io/badge/Node.js-v18+-green)
+![Express](https://img.shields.io/badge/Express-v4.18+-blue)
+![Sequelize](https://img.shields.io/badge/Sequelize-v6+-blueviolet)
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange)
 
-Se puede Descargar o Clonar el proyecto para su Funcion, creando la Base de Datos, en el Archivos "db.js" que se encuentra en la Carpeta "data" donde se encuentra los datos de Conexión.
+Backend completo para gestión de personas con operaciones CRUD implementado en Node.js con Express, Sequelize (ORM) y MySQL.
 
-Al descargar o clonar el proyecto, ejecutar la Terminal y ejecutar el comando "npm i", asi se instale la carpeta faltante que es la Carpeta "Node_Module" que es necesario para Express.
+## 📋 Requisitos Previos
 
-Crear Base de Datos
-MySQL host: mysql-it-soluciones.alwaysdata.net
-user: 368105
-pass: 3]GeA4Yz_g?d8@X
+- Node.js v18 o superior
+- MySQL Server 8.0 o superior
+- npm v9 o superior
+- MySQL Workbench (recomendado) o cliente similar
+
+## 🚀 Configuración Inicial
+
+1. **Clonar el repositorio**
+   ```bash
+   git clone https://github.com/FacuRob/CRUD-Persona.git
+   cd nombre-del-repositorio
+   
+2. **Instala dependencia**
+   ```bash
+   npm install
+
+3. **Configurar tu base de datos**
+- Crea una base de datos MySQL
+
+4. **Ejecuta la Aplicacion**
