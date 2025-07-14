@@ -1,9 +1,9 @@
-# Comandos SQL para la base de datos CodoACodo
+# Comandos SQL para la base de datos DB_Persona
 
 ```sql
-CREATE DATABASE codoacodo;
+CREATE DATABASE db_persona;
 
-USE codoacodo;
+USE db_persona;
 
 CREATE TABLE personas (
     id int not null auto_increment,
