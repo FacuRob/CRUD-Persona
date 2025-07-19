@@ -32,7 +32,7 @@ Backend completo para gestión de personas con operaciones CRUD implementado en 
 
 ## 📫 Contacto
 
-Si deseas intercambiar ideas sobre ciberseguridad o colaborar:
+Si deseas intercambiar ideas, contactame:
 - GitHub: [FacuRob](https://github.com/FacuRob)
 - LinkedIn: [Facundo Robles](https://www.linkedin.com/in/frobles-dev/)
 - TryHackMe: [Facundo Robles](https://tryhackme.com/p/roblesfacundo7)
